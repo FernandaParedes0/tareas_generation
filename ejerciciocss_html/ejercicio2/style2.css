@@ -1,0 +1,122 @@
+*
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: rgb(250, 227, 250);
+
+}
+
+h1 {
+  font-size: 25px;
+  color: rgb(98, 17, 98);
+  background-color: rgb(235, 196, 235);
+text-align: center;
+margin-left: 30%;
+margin-right: 30%;
+}
+
+h2
+{
+font-size: 23px;
+color:rgb(98, 17, 98);
+}
+
+h3
+{
+font-size: 20px;
+color:rgb(47, 15, 47)
+}
+
+h4
+{
+font-size: 18px;
+color:rgb(47, 15, 47)
+}
+
+p
+{
+font-size: 14px;
+color: rgb(32, 32, 32);
+}
+
+li, ul, ol
+{
+font-size: 14px;
+color: rgb(62, 37, 62);
+}
+
+hr{
+color:rgb(73, 21, 73);
+border:solid;
+}
+
+
+fieldset
+{
+background-color: rgb(176, 158, 195);
+color: white;
+border-color: rgb(103, 88, 118) ;
+}
+
+a
+{
+color: blueviolet;
+}
+
+#Ghibli
+{   display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    border: solid 1px;
+    border-color: rgb(183, 140, 183);
+    margin: 30px;
+}
+#Ghibli img
+{
+    margin: 10px;
+}
+
+#Ghibli h2
+{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+#Ghibli p
+{  
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align:justify;
+}
+
+#papas
+{   display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    border: solid 1px;
+    border-color: rgb(183, 140, 183);
+    margin: 30px;
+}
+#papas div
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+td{
+  border: 1px solid black;
+  padding: 8px; 
+  background-color: rgb(196, 167, 223);
+}
+
+#papas-fritas
+{
+    text-align: center;
+}
+
+ol{
+list-style: none 
+}
+
